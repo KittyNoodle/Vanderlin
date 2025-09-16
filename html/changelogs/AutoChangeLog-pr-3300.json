@@ -1,1 +1,0 @@
-{"author":"Arkatos","delete-after":true,"changes":[{"bugfix":"Secret officiant now works correctly for non clergy also, and triumph buy cost was decreased by 1."},{"bugfix":"Marriages should now give proper surnames, accounting for various titles."}]}

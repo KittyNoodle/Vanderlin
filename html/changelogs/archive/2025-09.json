@@ -473,5 +473,20 @@
                 "sound": "added heavy footstep sound"
             }
         ]
+    },
+    "2025-09-16": {
+        "grungussuss": [
+            {
+                "bugfix": "fixed runechat being cancelled on minor damage"
+            }
+        ],
+        "Arkatos": [
+            {
+                "bugfix": "Secret officiant now works correctly for non clergy also, and triumph buy cost was decreased by 1."
+            },
+            {
+                "bugfix": "Marriages should now give proper surnames, accounting for various titles."
+            }
+        ]
     }
 }
